@@ -1,11 +1,4 @@
-<div align="center">
-  <a href="https://modrinth.com/user/Vxrpenter">
-    <img src="https://img.shields.io/badge/%20Modrinth-e?style=for-the-badge&logo=modrinth&color=gray" alt="Modrinth Badge"/>
-  </a>
-  <a href="https://www.spigotmc.org/members/vxrpxntxr.1096792/">
-    <img src="https://img.shields.io/badge/%20Spigot-e?style=for-the-badge&logo=spigotmc&color=gray" alt="Spigot Badge"/>
-  </a>
-</div>
+[<img alt="spigot" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/supported/spigot_vector.svg">](https://www.spigotmc.org/members/vxrpxntxr.1096792/)[<img alt="modrinth-gallery" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/documentation/modrinth-gallery_vector.svg">](https://modrinth.com/user/Vxrpenter)
 
 ### About Me:
 Just making minecraft plugins for fun
