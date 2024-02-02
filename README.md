@@ -12,3 +12,8 @@ Just making minecraft plugins for fun
 
 ### 🔨 Working On :
 Currently working on [Itemcustomizer](https://github.com/Vxrpenter/Itemcustomizer)
+
+---
+
+### 🛑 No Longer Updating :
+- [StatusChange](https://github.com/Vxrpenter/StatusChange-Plugin)
