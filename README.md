@@ -1,3 +1,9 @@
+<div align="center">
+  <img alt="logo" src="https://github.com/Vxrpenter/Vxrpenter/assets/110356385/ca62e05a-36da-47fd-95a1-05f11b133422">
+</div>
+
+---
+
 [<img alt="spigot" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/supported/spigot_vector.svg">](https://www.spigotmc.org/members/vxrpxntxr.1096792/)[<img alt="modrinth-gallery" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/documentation/modrinth-gallery_vector.svg">](https://modrinth.com/user/Vxrpenter)
 
 ### About Me:
