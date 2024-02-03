@@ -5,6 +5,7 @@
 ---
 
 [<img alt="spigot" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/supported/spigot_vector.svg">](https://www.spigotmc.org/members/vxrpxntxr.1096792/)[<img alt="modrinth-gallery" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/documentation/modrinth-gallery_vector.svg">](https://modrinth.com/user/Vxrpenter)
+[<img alt="hangar" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/hangar_vector.svg">](https://hangar.papermc.io/Vxrpenter)
 
 ### About Me:
 Just making minecraft plugins for fun
