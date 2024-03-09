@@ -14,7 +14,7 @@ Just making minecraft plugins for fun
 ---
 
 ### 🔨 Working On :
-Currently working on [Itemcustomizer](https://github.com/Vxrpenter/Itemcustomizer)
+Currently working on [Itemcustomizer](https://github.com/Vxrpenter/Itemcustomizer) and [SimpleMaintenance](https://github.com/Vxrpenter/SimpleMaintenance)
 
 ---
 
