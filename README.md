@@ -20,3 +20,6 @@ Currently working on [Itemcustomizer](https://github.com/Vxrpenter/Itemcustomize
 
 ### 🛑 No Longer Updating :
 - [StatusChange](https://github.com/Vxrpenter/StatusChange-Plugin)
+
+### ✉️ Contact me :
+- Discord `vxrpenter`
