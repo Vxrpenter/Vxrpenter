@@ -16,10 +16,11 @@ Just making minecraft plugins for fun
 ### 🔨 Working On :
 Currently working on [Itemcustomizer](https://github.com/Vxrpenter/Itemcustomizer), [SimpleMaintenance](https://github.com/Vxrpenter/SimpleMaintenance) and [ItemForge](https://github.com/Vxrpenter/ItemForge)
 
----
-
 ### 🛑 No Longer Updating :
 - [StatusChange](https://github.com/Vxrpenter/StatusChange-Plugin)
+
+
+---
 
 ### ✉️ Contact me :
 - Discord `vxrpenter`
