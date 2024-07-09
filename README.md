@@ -1,7 +1,16 @@
 
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vxrpenter&theme=dark" alt="GitHub Streak" /></a>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vxrpenter&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vxrpenter&layout=compact&theme=dark" height="150"/>
+</div>
+
+---
 ### Platforms:
-[<img alt="spigot" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/supported/spigot_vector.svg">](https://www.spigotmc.org/members/vxrpxntxr.1096792/)[<img alt="modrinth-gallery" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/documentation/modrinth-gallery_vector.svg">](https://modrinth.com/user/Vxrpenter)
-[<img alt="hangar" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/hangar_vector.svg">](https://hangar.papermc.io/Vxrpenter)
+[<img alt="spigot" width="40" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/supported/spigot_vector.svg">](https://www.spigotmc.org/members/vxrpxntxr.1096792/)[<img alt="modrinth-gallery" width="40" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/documentation/modrinth-gallery_vector.svg">](https://modrinth.com/user/Vxrpenter)
+[<img alt="hangar" width="40" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/hangar_vector.svg">](https://hangar.papermc.io/Vxrpenter)
 
 ### About Me:
 Im not really a developer. Just a guy that has fun creating plugins for games
@@ -18,14 +27,13 @@ Im not really a developer. Just a guy that has fun creating plugins for games
 - [Itemcustomizer](https://github.com/Vxrpenter/Itemcustomizer)
 - [SimpleMaintenance](https://github.com/Vxrpenter/SimpleMaintenance)
 - [ItemForge](https://github.com/Vxrpenter/ItemForge)
-- [SpectatorList](https://github.com/Vxrpenter/SpectatorList-SL) [Fork - [Original](https://github.com/Misfiy/SpectatorList-SL)]
-- [Scp-1162](https://github.com/Vxrpenter/SCP1162) [Fork - [Original](https://github.com/Marikider/SCP1162)]
+- [SpectatorList](https://github.com/Vxrpenter/SpectatorList-SL) | Fork - [Original](https://github.com/Misfiy/SpectatorList-SL)
+- [Scp-1162](https://github.com/Vxrpenter/SCP1162) | Fork - [Original](https://github.com/Marikider/SCP1162)
 
 ### 🛑 No Longer Updating :
 - [StatusChange](https://github.com/Vxrpenter/StatusChange-Plugin)
 
 
 ---
-
 ### ✉️ Contact me :
 - Discord `vxrpenter`
