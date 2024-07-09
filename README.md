@@ -18,8 +18,8 @@ Im not really a developer. Just a guy that has fun creating plugins for games
 - [Itemcustomizer](https://github.com/Vxrpenter/Itemcustomizer)
 - [SimpleMaintenance](https://github.com/Vxrpenter/SimpleMaintenance)
 - [ItemForge](https://github.com/Vxrpenter/ItemForge)
-- [SpectatorList](https://github.com/Vxrpenter/SpectatorList-SL) [Fork [Original](https://github.com/Misfiy/SpectatorList-SL)]
-- [Scp-1162](https://github.com/Vxrpenter/SCP1162) [Fork [Original](https://github.com/Marikider/SCP1162)]
+- [SpectatorList](https://github.com/Vxrpenter/SpectatorList-SL) [Fork - [Original](https://github.com/Misfiy/SpectatorList-SL)]
+- [Scp-1162](https://github.com/Vxrpenter/SCP1162) [Fork - [Original](https://github.com/Marikider/SCP1162)]
 
 ### 🛑 No Longer Updating :
 - [StatusChange](https://github.com/Vxrpenter/StatusChange-Plugin)
