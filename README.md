@@ -24,19 +24,19 @@ Im not really a developer. Just a guy that has fun creating plugins for games
 ---
 
 ### 🔨 Working On :
+> My minecraft proojects consisting of paper plugins for the versions between 1.19 and 1.20
 <div align="center">
   <a href="https://github.com/Vxrpenter/Itemcustomizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=Itemcustomizer&theme=dark"></a> 
   <a href="https://github.com/Vxrpenter/ItemForge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=ItemForge&theme=dark"></a> 
   <a href="https://github.com/Vxrpenter/SimpleMaintenance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SimpleMaintenance&theme=dark"></a>
 </div>
+
+---
+> These are Exiled project for Scp Secret Laboratory. These plugins are mostly forks of already existing plugins that I modified to use them for my own projects
 <div align="center"> 
   <a href="https://github.com/Vxrpenter/SCP1162"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SCP1162&theme=dark"></a> 
   <a href="https://github.com/Vxrpenter/SpectatorList-SL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SpectatorList-SL&theme=dark"></a> 
 </div>
-
-### 🛑 No Longer Updating :
-<a href="https://github.com/Vxrpenter/StatusChange-Plugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=StatusChange-Plugin&theme=dark"></a> 
-
 
 ---
 ### ✉️ Contact me :
