@@ -4,7 +4,7 @@
 [<img alt="hangar" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/hangar_vector.svg">](https://hangar.papermc.io/Vxrpenter)
 
 ### About Me:
-Im not really a developer. Just a guy that has fun with creating plugins for games
+Im not really a developer. Just a guy that has fun creating plugins for games
 
 ---
 ### 🛠️ Languages :
@@ -15,7 +15,11 @@ Im not really a developer. Just a guy that has fun with creating plugins for gam
 ---
 
 ### 🔨 Working On :
-Currently working on [Itemcustomizer](https://github.com/Vxrpenter/Itemcustomizer), [SimpleMaintenance](https://github.com/Vxrpenter/SimpleMaintenance) and [ItemForge](https://github.com/Vxrpenter/ItemForge)
+- [Itemcustomizer](https://github.com/Vxrpenter/Itemcustomizer)
+- [SimpleMaintenance](https://github.com/Vxrpenter/SimpleMaintenance)
+- [ItemForge](https://github.com/Vxrpenter/ItemForge)
+- [SpectatorList](https://github.com/Vxrpenter/SpectatorList-SL) [Fork [Original](https://github.com/Misfiy/SpectatorList-SL)]
+- [Scp-1162](https://github.com/Vxrpenter/SCP1162) [Fork [Original](https://github.com/Marikider/SCP1162)]
 
 ### 🛑 No Longer Updating :
 - [StatusChange](https://github.com/Vxrpenter/StatusChange-Plugin)
