@@ -24,14 +24,18 @@ Im not really a developer. Just a guy that has fun creating plugins for games
 ---
 
 ### 🔨 Working On :
-- [Itemcustomizer](https://github.com/Vxrpenter/Itemcustomizer)
-- [SimpleMaintenance](https://github.com/Vxrpenter/SimpleMaintenance)
-- [ItemForge](https://github.com/Vxrpenter/ItemForge)
-- [SpectatorList](https://github.com/Vxrpenter/SpectatorList-SL) | Fork - [Original](https://github.com/Misfiy/SpectatorList-SL)
-- [Scp-1162](https://github.com/Vxrpenter/SCP1162) | Fork - [Original](https://github.com/Marikider/SCP1162)
+<div align="center">
+  <a href="https://github.com/Vxrpenter/Itemcustomizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=Itemcustomizer&theme=dark"></a> 
+  <a href="https://github.com/Vxrpenter/ItemForge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=ItemForge&theme=dark"></a> 
+  <a href="https://github.com/Vxrpenter/SimpleMaintenance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SimpleMaintenance&theme=dark"></a>
+</div>
+<div align="center"> 
+  <a href="https://github.com/Vxrpenter/SCP1162"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SCP1162&theme=dark"></a> 
+  <a href="https://github.com/Vxrpenter/SpectatorList-SL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SpectatorList-SL&theme=dark"></a> 
+</div>
 
 ### 🛑 No Longer Updating :
-- [StatusChange](https://github.com/Vxrpenter/StatusChange-Plugin)
+<a href="https://github.com/Vxrpenter/StatusChange-Plugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=StatusChange-Plugin&theme=dark"></a> 
 
 
 ---
