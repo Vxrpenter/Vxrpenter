@@ -35,7 +35,6 @@ Im not really a developer. Just a guy that has fun creating plugins for games
 > These are Exiled project for Scp Secret Laboratory. These plugins are mostly forks of already existing plugins that I modified to use them for my own projects
 <div align="center"> 
   <a href="https://github.com/Marikider/SCP1162"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Marikider&repo=SCP1162&theme=dark"></a> 
-  <a href="https://github.com/Vxrpenter/SpectatorList-SL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SpectatorList-SL&theme=dark"></a> 
 </div>
 
 ---
