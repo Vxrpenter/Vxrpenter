@@ -1,10 +1,10 @@
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vxrpenter&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vxrpenter&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vxrpenter&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vxrpenter&layout=compact&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vxrpenter&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vxrpenter&layout=compact&theme=radical&hide_border=true&langs_count=20&" height="150"/>
 </div>
 
 ---
@@ -19,18 +19,12 @@
 
 ---
 
-### 🔨 Working On :
-> My minecraft proojects consisting of paper plugins for the versions between 1.19 and 1.20
-<div align="center">
-  <a href="https://github.com/Vxrpenter/Itemcustomizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=Itemcustomizer&theme=dark"></a> 
-  <a href="https://github.com/Vxrpenter/ItemForge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=ItemForge&theme=dark"></a> 
-  <a href="https://github.com/Vxrpenter/SimpleMaintenance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SimpleMaintenance&theme=dark"></a>
-</div>
+### 🔨 Mainly Working On :
 
----
-> These are Exiled project for Scp Secret Laboratory. These plugins are mostly forks of already existing plugins that I modified to use them for my own projects
-<div align="center"> 
-  <a href="https://github.com/Marikider/SCP1162"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Marikider&repo=SCP1162&theme=dark"></a> 
+<div align="center">
+  <a href="https://github.com/Vxrpenter/SCPToolsBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=ScpToolsBot&theme=radical&hide_border=true"></a> 
+  <a href="https://github.com/Vxrpenter/SCPStatusBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SCPStatusBot&theme=radical&hide_border=true"></a> 
+  <a href="https://github.com/Marikider/SCP1162"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Marikider&repo=SCP1162&theme=radical&hide_border=true"></a>
 </div>
 
 ---
