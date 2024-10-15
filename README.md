@@ -19,8 +19,6 @@
 
 ---
 
-### 🔨 Mainly Working On :
-
 <div align="center">
   <a href="https://github.com/Vxrpenter/SCPToolsBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=ScpToolsBot&theme=radical&hide_border=true"></a> 
   <a href="https://github.com/Vxrpenter/SCPStatusBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SCPStatusBot&theme=radical&hide_border=true"></a> 
