@@ -1,4 +1,3 @@
-
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vxrpenter&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Streak" /></a>
 </div>
@@ -22,7 +21,6 @@
 <div align="center">
   <a href="https://github.com/Vxrpenter/SCPToolsBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=ScpToolsBot&theme=radical&hide_border=true"></a> 
   <a href="https://github.com/Vxrpenter/SCPStatusBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SCPStatusBot&theme=radical&hide_border=true"></a> 
-  <a href="https://github.com/Marikider/SCP1162"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Marikider&repo=SCP1162&theme=radical&hide_border=true"></a>
 </div>
 
 ---
