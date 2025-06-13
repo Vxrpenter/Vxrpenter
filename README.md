@@ -1,9 +1,9 @@
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vxrpenter&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vxrpenter&theme=shadow_red&hide_border=true&include_all_commits=true" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vxrpenter&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vxrpenter&layout=compact&theme=radical&hide_border=true&langs_count=20&" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vxrpenter&show_icons=true&theme=shadow_red&hide_border=true&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vxrpenter&layout=compact&theme=shadow_red&hide_border=true&langs_count=20&" height="150"/>
 </div>
 
 ---
@@ -19,9 +19,9 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Vxrpenter/SCPToolsBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=ScpToolsBot&theme=radical&hide_border=true"></a> 
-  <a href="https://github.com/Vxrpenter/SCPStatusBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SCPStatusBot&theme=radical&hide_border=true"></a> 
-  <a href="https://github.com/Vxrpenter/SecretLab-Kotlin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SecretLab-Kotlin&theme=radical&hide_border=true"></a> 
+  <a href="https://github.com/Vxrpenter/SCPToolsBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=ScpToolsBot&theme=shadow_red&hide_border=true"></a> 
+  <a href="https://github.com/Vxrpenter/SCPStatusBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SCPStatusBot&theme=shadow_red&hide_border=true"></a> 
+  <a href="https://github.com/Vxrpenter/SecretLab-Kotlin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SecretLab-Kotlin&theme=shadow_red&hide_border=true"></a> 
 </div>
 
 ---
