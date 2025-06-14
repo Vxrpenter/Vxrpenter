@@ -16,8 +16,7 @@ Im Vxrpenter, developing in my free time. Im generally working with java and kot
 
 # Stats
 
-| <br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vxrpenter&layout=compact&theme=darcula&hide_border=true&langs_count=20&" height="150"/><br/> | <br/><img src="https://github-readme-stats.vercel.app/api?username=Vxrpenter&show_icons=true&theme=darcula&hide_border=true&include_all_commits=true" height="150"/><br/> |
-| - | - |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vxrpenter&layout=compact&theme=darcula&hide_border=true&langs_count=20&" height="150"/>&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=Vxrpenter&show_icons=true&theme=darcula&hide_border=true&include_all_commits=true" height="150"/>&nbsp;
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vxrpenter&theme=darcula&hide_border=true" alt="Wakatime Stats" height="130"/>&nbsp; <img src="https://streak-stats.demolab.com?user=Vxrpenter&theme=darcula&hide_border=true&include_all_commits=true" alt="GitHub Streak" height="130"/>&nbsp;
 
