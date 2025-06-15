@@ -23,4 +23,5 @@ Im Vxrpenter, developing in my free time. Im generally working with java and kot
 ---
 ### ✉️ Contact me :
 Discord `@vxrpenter`
-> I should answer in a span of 24h, if I don't, send me another message, to remind me.
+
+Email: `vxrpenter@web.de`
