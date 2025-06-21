@@ -12,7 +12,7 @@ Im Vxrpenter, developing in my free time. Im generally working with java and kot
 # Current Projects
 <a href="https://github.com/Vxrpenter/SCPToolsBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=ScpToolsBot&theme=darcula&hide_border=true"></a> 
 <a href="https://github.com/Vxrpenter/SCPStatusBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SCPStatusBot&theme=darcula&hide_border=true"></a> 
-<a href="https://github.com/Vxrpenter/SecretLab-Kotlin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SecretLab-Kotlin&theme=darcula&hide_border=false"></a> 
+<a href="https://github.com/Vxrpenter/SecretLab-Kotlin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vxrpenter&repo=SecretLab-Kotlin&theme=darcula&hide_border=true"></a> 
 
 # Stats
 
