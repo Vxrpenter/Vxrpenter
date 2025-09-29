@@ -1,7 +1,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/808746591829229601?theme=dark)](https://discord.com/users/808746591829229601)
 
 ## 👋 Hey
-Im Vxrpenter, developing in my free time. Im generally working with java and kotlin to video game related projects, e.g. mods, plugins, discord bots etc. If you want to contact me, look in the [Contact](https://github.com/Vxrpenter#%EF%B8%8F-contact-me-) section.
+Im Vxrpenter, developing in my free time. Im generally working with java and kotlin on video game related projects, e.g. mods, plugins, discord bots etc. If you want to contact me, look in the [Contact](https://github.com/Vxrpenter#%EF%B8%8F-contact-me-) section.
 
 ## My Skills
 
