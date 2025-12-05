@@ -1,5 +1,5 @@
 <div align="center">
-  <img href="https://codeberg.org/Vxrpenter" src="https://docs.codeberg.org/markdown/using-images/rhLNex82rQ-850.webp" width="450"/>
+  <a href="https://codeberg.org/Vxrpenter"><img src="https://docs.codeberg.org/markdown/using-images/rhLNex82rQ-850.webp" width="450"/></a>
 
   Im currently in the process of moving my projects to codeberg. The repos will be setup as push mirrors so the GitHub repos are still going to receive updates.
 </div>
